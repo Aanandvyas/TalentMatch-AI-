@@ -37,6 +37,8 @@ models/cross_encoder/
 # Database
 *.db
 *.sqlite3
+*.db-shm
+*.db-wal
 .clario/cache.duckdb
 .clario/daemon/credentials.json
 
